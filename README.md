@@ -1,4 +1,3 @@
 # NA
-feature1 đã được chỉnh sửa
-
+Chỉnh sửa từ feature1 và feature2
 
